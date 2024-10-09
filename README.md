@@ -1,23 +1,54 @@
 # Mémoires
 
-Ce projet explore l’utilisation du flot optique et de l’Analyse en Composantes Principales
-pour surmonter les défis posés par les mouvements physiologiques lors des procédures
-médicales.
+Mémoires réalisés dans le cadre de l'obtention des diplômes de Licence et de Master à l'Ecole Nationale d'Economie Appliquée et de Management (ENEAM).
 
-## Mémoire de licence
-- Numpy
-- Matplotlib
-- sklearn.decomposition
+## Librairies principales
+- urca
+- tseries
+- ARDL
+- vars
+- car
 
-## Mémoire de Master
-* implémenter une méthode de calcul du flot optique pour estimer les déformations élastiques
-des organes.<br>
-* étudier la cohérence spatio-temporelle des déplacements estimés à l’aide de l’Analyse
-en Composantes Principales (ACP), afin d’identifier les motifs de mouvement prépondérants
-du patient, puis les caractériser.<br>
-* fournir une base solide pour pour les algorithmes de tracking qui serviront à l’application
-clinique.
+## Mémoire de Licence : Analyse des effets de la diversification des exportations des produits agricoles sur la croissance économique au Bénin
 
-## Résultats
-- [Visualisation des organes en mouvements](https://www.youtube.com/shorts/-D0IFKWgvaU)
-- Les mouvements estimés pourraient donc se résumer aux mouvements du coeur, des poumons et des reins.
+### Objectifs
+
+L’objectif général de ce mémoire est d’analyser les effets de la diversification des exportations agricoles au Bénin sur la croissance économique à partir d’un ensemble de facteurs déterminés. Plus spécifiquement, il s’agit de :
+
+- Mesurer l’effet de l’investissement agricole sur la diversification des exportations des produits agricoles au Bénin.
+- Mesurer l’effet de la diversification des exportations des produits agricoles sur la croissance économique au Bénin.
+
+### Hypothèses
+
+- L’investissement agricole favorise la diversification des exportations des produits agricoles au Bénin.
+- La diversification des exportations des produits agricoles influence positivement la croissance économique au Bénin.
+
+### Résultats
+
+- La prépondérance des exportations de coton dans les exportations de produits agricoles met en évidence la nécessité de diversifier ces exportations afin de réduire les risques auxquels l’économie béninoise est exposée, en étant trop axée sur une politique de spécialisation.
+- Un bon équilibre budgétaire et une stabilité politique solide sont favorables au processus de diversification.
+
+## Mémoire de Master : Santé, genre et croissance économique au Bénin : une analyse empirique
+
+### Objectifs
+
+L’objectif général de cette étude est d’analyser empiriquement les relations entre la santé, le genre, et la croissance économique au Bénin, en mettant l'accent sur le rôle des agents de santé qualifiés (médecins, sages-femmes, infirmiers). De façon plus spécifique, il s’agit de :
+
+- Évaluer l'influence des agents de santé qualifiés sur l'espérance de vie à la naissance au Bénin.
+- Analyser les effets de l'espérance de vie à la naissance sur la croissance économique du Bénin.
+- Étudier la relation entre le genre féminin dans le secteur de la santé et l'espérance de vie à la naissance au Bénin.
+- Examiner l'influence du genre féminin dans le domaine de la santé sur la croissance économique du Bénin.
+
+### Hypothèses
+
+- L'augmentation du nombre d'agents de santé qualifiés améliore l'espérance de vie à la naissance au Bénin.
+- Une augmentation de l'espérance de vie à la naissance peut stimuler la croissance économique du Bénin.
+- La présence accrue de femmes dans le secteur de la santé peut améliorer l'espérance de vie à la naissance au Bénin.
+- L'implication active des femmes dans le secteur de la santé peut favoriser la croissance économique du Bénin.
+
+### Résultats
+
+- Les résultats indiquent qu'une augmentation de la densité totale des agents de santé qualifiés est associée à une augmentation de l'espérance de vie.
+- Le taux d'achèvement de l'école primaire apparaît comme un facteur significatif contribuant à une augmentation de l'espérance de vie.
+- L'augmentation de la proportion de femmes qualifiées travaillant en tant qu'agents de santé au Bénin a un impact positif et significatif sur la santé.
+- Enfin, l'implication accrue des femmes qualifiées dans le secteur de la santé a un effet positif et significatif sur la santé et la croissance économique au Bénin.
