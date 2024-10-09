@@ -13,7 +13,7 @@ Mémoires réalisés dans le cadre de l'obtention des diplômes de Licence et de
 
 ### Objectifs
 
-L’objectif général de ce mémoire est d’analyser les effets de la diversification des exportations agricoles au Bénin sur la croissance économique à partir d’un ensemble de facteurs déterminés. Plus spécifiquement, il s’agit de :
+L’objectif général de ce mémoire est d’analyser les effets de la diversification des exportations agricoles au Bénin sur la croissance économique. Plus spécifiquement, il s’agit de :
 
 - Mesurer l’effet de l’investissement agricole sur la diversification des exportations des produits agricoles au Bénin.
 - Mesurer l’effet de la diversification des exportations des produits agricoles sur la croissance économique au Bénin.
